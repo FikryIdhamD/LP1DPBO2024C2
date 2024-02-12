@@ -1,6 +1,6 @@
 # LP1DPBO2024C2
 
-## Janji
+Janji :
 Saya Fikry Idham Dwiyana NIM 2101294 mengerjakan soal Latihan 1
 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya
 maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.
@@ -69,7 +69,7 @@ Pada program Java
 ![Bukti_Java](https://github.com/FikryIdhamD/LP1DPBO2024C2/blob/main/Java/Screenshot/Screenshot_3.png)
 ![Bukti_Java2](https://github.com/FikryIdhamD/LP1DPBO2024C2/blob/main/Java/Screenshot/Screenshot_4.png)
 
-Pada program Python
+Pada program PHP
 
 ![Bukti_PHP](https://github.com/FikryIdhamD/LP1DPBO2024C2/blob/main/PHP/Screenshot/Screenshot_1.png)
 ![Bukti_PHP2](https://github.com/FikryIdhamD/LP1DPBO2024C2/blob/main/PHP/Screenshot/Screenshot_2.png)
