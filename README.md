@@ -53,7 +53,7 @@ Pengguna akan diminta untuk mengetikkan perintah pada command prompt
 
 Pengguna dapat memilih untuk mengetikkan serangkaian perintah berikut pada command prompt
 
-- ketik `1' untuk menjalankan perintah `add`
+- ketik '1' untuk menjalankan perintah `add`
   User akan diminta mengisi data Anggota, bila Id telah terisi data akan gagal untuk ditambahkan.
 - ketik '2' untuk menjalankan perintah `update`
   User akan diminta mengisi Id yang dicari, bila ditemukan user akan diminta untuk mengisi kembali data, bila tidak ditemukan akan mengeluarkan pesan error.
